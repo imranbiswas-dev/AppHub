@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "category": "Games",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Subway_Surfers_logo.png",
+    "description": "DASH as fast as you can! DODGE the oncoming trains!",
+    "size": 180,
+    "reviews": 35000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 27000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "category": "Social Media",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "description": "Simple, reliable, and private messaging and calling.",
+    "size": 35,
+    "reviews": 170000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 17000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 100000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "category": "Music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "description": "Listen to your favorite songs and podcasts everywhere.",
+    "size": 28,
+    "reviews": 30000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Evernote_Icon.svg",
+    "description": "Notes, organizer, and daily planner to keep life simple.",
+    "size": 65,
+    "reviews": 1600000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "category": "Games",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Clash_of_Clans_logo.png",
+    "description": "Build your village, raise a clan, and compete in epic Clan Wars!",
+    "size": 250,
+    "reviews": 58000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 40000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Alarmy",
+    "companyName": "Alarm Clock Alarmy",
+    "category": "Utility",
+    "image": "https://i.ibb.co.com/Wp7nZ9L/alarmy.png",
+    "description": "The world's highest-rated alarm clock app.",
+    "size": 42,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "VLC for Android",
+    "companyName": "Videolabs",
+    "category": "Music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
+    "description": "The best open source video and audio player for Android.",
+    "size": 32,
+    "reviews": 1500000,
+    "ratingAvg": 4.1,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 750000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Word_2013-2019_logo.svg",
+    "description": "Write, edit, and share documents on the go with ease.",
+    "size": 88,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "category": "Games",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Candy_Crush_Saga_logo.png",
+    "description": "Match candies and win puzzles in this sweet adventure.",
+    "size": 110,
+    "reviews": 38000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Duolingo_logo_%282019%29.svg",
+    "description": "Learn a new language with the world's most-downloaded education app.",
+    "size": 45,
+    "reviews": 18000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "category": "Utility",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg",
+    "description": "Navigate your world faster and easier with real-time GPS.",
+    "size": 58,
+    "reviews": 15000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "category": "Social Media",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+    "description": "Short-form mobile video platform to express your creativity.",
+    "size": 92,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 40000000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe",
+    "category": "Utility",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Lightroom_CC_logo.svg",
+    "description": "Professional photo editor and camera app to edit stunning images.",
+    "size": 115,
+    "reviews": 1500000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 270000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "category": "Utility",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png",
+    "description": "Request a ride and get picked up by a nearby reliable driver.",
+    "size": 60,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Temple Run 2",
+    "companyName": "Imangi Studios",
+    "category": "Games",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Temple_Run_2_Logo.png",
+    "description": "Run, jump, and slide through dangerous cliffs and forests.",
+    "size": 95,
+    "reviews": 10000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 6400000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Microsoft To Do",
+    "companyName": "Microsoft Corporation",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Microsoft_To-Do_icon.svg",
+    "description": "Task manager, planner and reminder app to stay organized.",
+    "size": 22,
+    "reviews": 400000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 320000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "category": "Music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Shazam_logo.svg",
+    "description": "Identify any song in seconds. Find artists, lyrics, and playlists.",
+    "size": 15,
+    "reviews": 8500000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 650000 },
+      { "name": "5 star", "count": 7500000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "PUBG MOBILE",
+    "companyName": "Level Infinite",
+    "category": "Games",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/PUBG_Mobile_Logo.png",
+    "description": "The original battle royale, survival mobile game.",
+    "size": 1200,
+    "reviews": 45000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 26000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "category": "Social Media",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "description": "Watch movies and TV shows anytime, anywhere.",
+    "size": 25,
+    "reviews": 14000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
+    "description": "Store, share, and collaborate on your files.",
+    "size": 20,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 7500000 }
+    ]
+  }
+]
+                                    
