@@ -6,7 +6,7 @@ import banner from '../../assets/hero.png';
 const Hero = () => {
   return (
     <div className="max-w-7xl mx-auto ">
-      <div className="flex flex-col justify-items-center items-center text-center mt-5 space-y-3 lg:space-y-5">
+      <div className="flex flex-col justify-items-center items-center text-center pt-5 space-y-3 lg:space-y-5">
         <h1 className="text-2xl md:text-3xl lg:text-5xl font-bold">
         We Build <br />
         <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">

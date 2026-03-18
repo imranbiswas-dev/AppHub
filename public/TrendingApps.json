@@ -1,0 +1,154 @@
+[
+  {
+    "id": 2,
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "category": "Social Media",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "description": "Simple, reliable, and private messaging and calling.",
+    "size": 35,
+    "reviews": 170000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 17000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 100000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "category": "Music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "description": "Listen to your favorite songs and podcasts everywhere.",
+    "size": 28,
+    "reviews": 30000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "category": "Productivity",
+    "image": "https://cdn-icons-png.flaticon.com/512/4494/4494684.png",
+    "description": "Notes, organizer, and daily planner to keep life simple.",
+    "size": 65,
+    "reviews": 1600000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "VLC for Android",
+    "companyName": "Videolabs",
+    "category": "Music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
+    "description": "The best open source video and audio player for Android.",
+    "size": 32,
+    "reviews": 1500000,
+    "ratingAvg": 4.1,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 750000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "category": "Productivity",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRSDcTIswidLMF6-sdVqjsKLHE3uxI6Sj0A&s",
+    "description": "Write, edit, and share documents on the go with ease.",
+    "size": 88,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "category": "Utility",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg",
+    "description": "Navigate your world faster and easier with real-time GPS.",
+    "size": 58,
+    "reviews": 15000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "category": "Social Media",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "description": "Watch movies and TV shows anytime, anywhere.",
+    "size": 25,
+    "reviews": 14000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "category": "Productivity",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
+    "description": "Store, share, and collaborate on your files.",
+    "size": 20,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 7500000 }
+    ]
+  }
+]
