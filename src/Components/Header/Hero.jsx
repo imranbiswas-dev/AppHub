@@ -15,7 +15,7 @@ const Hero = () => {
         Apps
       </h1>
       <p className="md:text-lg lg:text-xl md:w-[70%] mx-5 text-[#627382] ">
-        At HERO.IO , we craft innovative apps designed to make everyday life
+        At AppHub , we craft innovative apps designed to make everyday life
         simpler, smarter, and more exciting. Our goal is to turn your ideas into
         digital experiences that truly make an impact.
       </p>

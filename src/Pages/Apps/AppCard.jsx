@@ -6,9 +6,9 @@ import { Link } from "react-router";
 const AppCard = ({ app }) => {
   const { id,title, size, ratingAvg, image } = app;
   return (
-    <Link to={`/details/${id}`} className="lg:w-[248px] lg:h-[335px] w-45 h-65 shadow-md p-3 border border-base-300 bg-base-100 rounded-xl">
+    <Link to={`/details/${id}`} className="lg:w-62 lg:h-83.75 w-45 h-65 shadow-md p-3 border border-base-300 bg-base-100 rounded-xl">
       <div className="">
-        <img className="h-[153px] w-[153px] lg:w-[200px] lg:h-[200px] mx-auto" src={image} alt="" />
+        <img className="h-38.25 w-38.25 lg:w-50 lg:h-50 mx-auto" src={image} alt="" />
       </div>
       <h3 className="mt-5 text-lg font-semibold mb-3">{title}</h3>
       <div className="flex justify-between ">

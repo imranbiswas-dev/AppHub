@@ -4,8 +4,16 @@ import { MdOutlineRateReview } from "react-icons/md";
 import { AppContext } from "../../Context/AppContext";
 
 const AppDetailsCard = ({ app }) => {
-  const { title, image, companyName, size, ratingAvg, reviews, description } =
-    app;
+  const {
+    title,
+    image,
+    companyName,
+    size,
+    ratingAvg,
+    reviews,
+    description,
+    downloads,
+  } = app;
   const { onInstall, install } = useContext(AppContext);
 
   const isInstall = install.some((item) => item.id === app.id);
@@ -31,7 +39,7 @@ const AppDetailsCard = ({ app }) => {
                 alt="Polaroid camera"
               />
               <div className="space-y-1">
-                <h3 className="text-lg font-semibold leading-snug sm:pr-8">
+                <h3 className="text-lg md:text-xl lg:text-2xl font-semibold leading-snug sm:pr-8">
                   {title}
                 </h3>
                 <p className="text-sm bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
@@ -48,7 +56,7 @@ const AppDetailsCard = ({ app }) => {
                   <FaDownload size={24} />
                 </p>
                 <h4 className="md:text-lg font-semibold">Downloads</h4>
-                {size}MB
+                {downloads}
               </div>
               <div className="space-y-2">
                 <p className="space-y-2 text-[#FF8811]">
@@ -72,7 +80,7 @@ const AppDetailsCard = ({ app }) => {
                 className={`btn mt-5 text-white ${isInstall ? "btn-disabled bg-gray-500" : "btn-success"}`}
                 disabled={isInstall}
               >
-                {isInstall ? "Installed" : `Install Now ({size}MB)`}
+                {isInstall ? "Installed" : `Install Now (${size}MB)`}
               </button>
             </div>
           </div>

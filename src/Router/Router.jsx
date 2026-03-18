@@ -5,6 +5,7 @@ import About from "../Pages/Apps/Apps";
 import Apps from "../Pages/Apps/Apps";
 import Installation from "../Pages/Installation/Installation";
 import AppDetails from "../Pages/Apps/AppDetails";
+import SearchResult from "../Components/SearchFeature/SearchResult";
 
 export const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ export const router = createBrowserRouter([
       {
         path: "/installation",
         Component: Installation,
+      },
+      {
+        path: "/search",
+        Component: SearchResult,
       },
     ],
   },
