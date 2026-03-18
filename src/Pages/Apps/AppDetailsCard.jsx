@@ -1,13 +1,15 @@
-import React from "react";
-import download from "../../assets/icon-downloads.png";
-import ratting from "../../assets/icon-ratings.png";
-import review from "../../assets/icon-review.png";
+import React, { useContext } from "react";
 import { FaDownload } from "react-icons/fa";
 import { MdOutlineRateReview } from "react-icons/md";
+import { AppContext } from "../../Context/AppContext";
 
 const AppDetailsCard = ({ app }) => {
   const { title, image, companyName, size, ratingAvg, reviews, description } =
     app;
+  const { onInstall, install } = useContext(AppContext);
+
+  const isInstall = install.some((item) => item.id === app.id);
+
   return (
     <div className="max-w-7xl lg:mx-auto mx-5 pt-10 min-h-screen">
       <div className="flex md:flex-col py-6 flex-row justify-between items-center ">
@@ -46,7 +48,7 @@ const AppDetailsCard = ({ app }) => {
                   <FaDownload size={24} />
                 </p>
                 <h4 className="md:text-lg font-semibold">Downloads</h4>
-                {size}M
+                {size}MB
               </div>
               <div className="space-y-2">
                 <p className="space-y-2 text-[#FF8811]">
@@ -65,8 +67,12 @@ const AppDetailsCard = ({ app }) => {
             </div>
 
             <div>
-              <button className="btn btn-success text-white mt-5">
-                Install Now ({size})
+              <button
+                onClick={() => onInstall(app)}
+                className={`btn mt-5 text-white ${isInstall ? "btn-disabled bg-gray-500" : "btn-success"}`}
+                disabled={isInstall}
+              >
+                {isInstall ? "Installed" : `Install Now ({size}MB)`}
               </button>
             </div>
           </div>

@@ -13,7 +13,7 @@ const AppCard = ({ app }) => {
       <h3 className="mt-5 text-lg font-semibold mb-3">{title}</h3>
       <div className="flex justify-between ">
         <p className="flex items-center gap-2 text-[#00D390]">
-          <FaDownload /> {size}M
+          <FaDownload /> {size}MB
         </p>
         <p className="flex items-center gap-2 text-[#FF8811]">
           <FcRating /> {ratingAvg}
