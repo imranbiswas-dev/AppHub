@@ -48,7 +48,7 @@ const Apps = () => {
           {/* Card */}
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3 md:gap-6 lg:gap-3 justify-self-center mt-3 md:mt-5">
             {apps.map((app) => (
-              <AppCard key={app} app={app} />
+              <AppCard key={app.id} app={app} />
             ))}
           </div>
         </main>

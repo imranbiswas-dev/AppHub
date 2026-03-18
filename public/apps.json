@@ -5,17 +5,13 @@
     "companyName": "SYBO Games",
     "category": "Games",
     "image": "https://images.seeklogo.com/logo-png/52/1/subway-surfers-logo-png_seeklogo-523449.png",
-    "description": "DASH as fast as you can! DODGE the oncoming trains!",
+    "description": "Subway Surfers is an exhilarating endless runner game that takes you on a high-speed chase through the world's most vibrant subway systems. As Jake or one of his many friends, you must sprint away from the grumpy Inspector and his dog while navigating a maze of oncoming trains, tunnels, and barricades. The game's fast-paced mechanics and responsive swipe controls make every run a heart-pounding experience.\n\nBeyond the core gameplay, the 'World Tour' feature regularly updates the environment, bringing the unique aesthetics of cities like Tokyo, Paris, and Rio to your screen. You can collect coins and power-ups like Jetpacks, Super Sneakers, and Coin Magnets to boost your score and unlock exclusive hoverboards. Each hoverboard comes with its own special abilities, adding a layer of strategy to your daring escape.\n\nJoin the most daring chase and see how far you can run before the law catches up! With stunning HD-optimized graphics and a social leaderboard to compete with friends, Subway Surfers remains a top-tier mobile gaming experience. Customize your characters with cool outfits and upgrade your power-ups to become the ultimate surfer in this endless urban adventure.",
     "size": 180,
-    "reviews": 35000000,
+    "reviews": "35k",
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 27000000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1500 }, { "name": "4 star", "count": 5000 }, { "name": "5 star", "count": 27000 }
     ]
   },
   {
@@ -24,17 +20,13 @@
     "companyName": "WhatsApp LLC",
     "category": "Social Media",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
-    "description": "Simple, reliable, and private messaging and calling.",
+    "description": "WhatsApp from Meta is a free messaging and video calling app used by over 2 billion people in more than 180 countries. It is simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees, making it the go-to communication tool worldwide.\n\nYour personal messages and calls to friends and family are end-to-end encrypted. No one outside of your chats, not even WhatsApp, can read or listen to them. This ensures maximum privacy for your sensitive information, voice notes, and shared documents. You can also share your location with only those in your individual or group chat, and stop sharing at any time.\n\nMake secure video and voice calls with up to 32 people for free. Your calls work across mobile devices using your phone’s Internet service, even on slow connections. Stay in touch with your groups through encrypted chats where you can share messages, photos, videos, and documents across mobile and desktop effortlessly.",
     "size": 35,
-    "reviews": 170000000,
+    "reviews": "170k",
     "ratingAvg": 4.3,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 15000000 },
-      { "name": "2 star", "count": 8000000 },
-      { "name": "3 star", "count": 17000000 },
-      { "name": "4 star", "count": 30000000 },
-      { "name": "5 star", "count": 100000000 }
+      { "name": "1 star", "count": 15000 }, { "name": "2 star", "count": 8000 }, { "name": "3 star", "count": 17000 }, { "name": "4 star", "count": 30000 }, { "name": "5 star", "count": 100000 }
     ]
   },
   {
@@ -43,17 +35,13 @@
     "companyName": "Spotify AB",
     "category": "Music",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
-    "description": "Listen to your favorite songs and podcasts everywhere.",
+    "description": "Spotify is the world's most popular music streaming service, giving you access to millions of songs, podcasts, and videos from artists all over the globe. Whether you are looking for the latest pop hits, deep jazz tracks, or niche indie artists, Spotify’s massive library has it all. The platform is designed to learn your taste and provide a personalized soundtrack for your life.\n\nOne of Spotify's standout features is its sophisticated recommendation algorithm. Playlists like 'Discover Weekly' and 'Daily Mix' are tailored specifically to your listening habits, ensuring you always have something new to fall in love with. You can also create your own playlists, follow your favorite artists, and share your musical discoveries with friends across social media platforms.\n\nWith Spotify Premium, you can download music to listen offline, enjoy ad-free playback, and experience high-quality audio. The app is compatible across all your devices—from smartphones and tablets to desktops and smart speakers. Dive into a world of endless sound and discover why millions of users choose Spotify as their primary audio companion.",
     "size": 28,
-    "reviews": 30000000,
+    "reviews": "30k",
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 2000000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 3000000 },
-      { "name": "4 star", "count": 6000000 },
-      { "name": "5 star", "count": 18000000 }
+      { "name": "1 star", "count": 2000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 3000 }, { "name": "4 star", "count": 6000 }, { "name": "5 star", "count": 18000 }
     ]
   },
   {
@@ -62,17 +50,13 @@
     "companyName": "Evernote Corporation",
     "category": "Productivity",
     "image": "https://cdn-icons-png.flaticon.com/512/4494/4494684.png",
-    "description": "Notes, organizer, and daily planner to keep life simple.",
+    "description": "Evernote is a powerful tool designed to help you capture and prioritize your ideas, projects, and to-do lists, so nothing falls through the cracks. Whether you are a student taking lecture notes, a professional managing complex projects, or simply someone trying to organize their daily life, Evernote provides a centralized hub for all your digital information.\n\nNotes can be more than just text. With Evernote, you can attach PDFs, images, audio recordings, and even hand-drawn sketches to your notes. The powerful search functionality can even find text within images and scanned documents, making it incredibly easy to retrieve information later. Synchronize your data across all your devices so your notes are always with you.\n\nStay organized with sophisticated notebook structures and tagging systems that allow you to categorize your information exactly how you want. You can also set reminders, create task lists, and share notebooks with collaborators for seamless teamwork. Evernote helps you focus on what matters most by bringing all your thoughts into one organized workspace.",
     "size": 65,
-    "reviews": 1600000,
+    "reviews": "16k",
     "ratingAvg": 4.2,
-    "downloads": 100000000,
+    "downloads": "100M+",
     "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 1000000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1500 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 10000 }
     ]
   },
   {
@@ -81,17 +65,13 @@
     "companyName": "Supercell",
     "category": "Games",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jKB6FQ0tiMAM547bYbyuCW-fmZRASFE5uw&s",
-    "description": "Build your village, raise a clan, and compete in epic Clan Wars!",
+    "description": "Clash of Clans is a global phenomenon where millions of players build their villages, raise clans, and battle in epic Clan Wars. Lead your army of Barbarians, Archers, Hog Riders, Wizards, and more to victory against rival clans. The game combines strategic base-building with fast-paced tactical combat to create an addictive and deeply engaging multiplayer experience.\n\nCustomize your village with defensive structures like Cannons, Archer Towers, and Mortars to repel attacks from players worldwide. You can also join a Clan or start your own with friends to participate in massive Clan War Leagues and earn exclusive magic items. Developing your Town Hall unlocks new buildings and more powerful troops to strengthen your kingdom.\n\nStrategize your attacks using a variety of spells, troops, and Heroes like the Barbarian King and Archer Queen. With regular updates introducing new levels, quality-of-life improvements, and seasonal events, the battle never ends. Prove your worth in the Legend League and rise to the top of the global leaderboards in this ultimate strategy game.",
     "size": 250,
-    "reviews": 58000000,
+    "reviews": "58k",
     "ratingAvg": 4.5,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 10000000 },
-      { "name": "5 star", "count": 40000000 }
+      { "name": "1 star", "count": 3000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 40000 }
     ]
   },
   {
@@ -100,17 +80,13 @@
     "companyName": "Alarm Clock Alarmy",
     "category": "Utility",
     "image": "https://i.ibb.co.com/Wp7nZ9L/alarmy.png",
-    "description": "The world's highest-rated alarm clock app.",
+    "description": "Alarmy is the ultimate solution for heavy sleepers who struggle to get out of bed in the morning. Known as the world's most annoying alarm clock app, it forces you to wake up by requiring specific missions to turn off the alarm. Whether it's taking a photo of a specific room, shaking your phone vigorously, or solving complex math problems, Alarmy ensures you're wide awake.\n\nThe app offers a wide range of mission types including 'Photo Mission', 'Barcode Mission', and 'Memory Mission' to suit your waking style. It also features a 'Wake Up Check' system that follows up with you to make sure you haven't fallen back asleep. Its loud and varied ringtones are designed to penetrate even the deepest sleep cycles.\n\nBeyond just waking you up, Alarmy helps you build a morning routine with features like 'Morning Mood' and weather updates. You can track your sleep quality and set gentle alarms for a more natural wake-up experience. Join millions of users who have transformed their mornings and increased their productivity with the most reliable alarm system available.",
     "size": 42,
-    "reviews": 1200000,
+    "reviews": "12k",
     "ratingAvg": 4.7,
-    "downloads": 50000000,
+    "downloads": "50M+",
     "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 10000 },
-      { "name": "3 star", "count": 50000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 1000000 }
+      { "name": "1 star", "count": 200 }, { "name": "2 star", "count": 100 }, { "name": "3 star", "count": 500 }, { "name": "4 star", "count": 1200 }, { "name": "5 star", "count": 10000 }
     ]
   },
   {
@@ -119,17 +95,13 @@
     "companyName": "Videolabs",
     "category": "Music",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
-    "description": "The best open source video and audio player for Android.",
+    "description": "VLC media player is a free and open-source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols. It is a full port of the desktop VLC media player for Android, supporting almost any audio or video format imaginable without the need for additional codec downloads.\n\nThe app includes a full media library for audio and video files, allowing for easy browsing of your local folders and network shares. It supports multi-track audio and subtitles, auto-rotation, aspect-ratio adjustments, and gestures to control volume, brightness, and seeking. Whether you're watching a movie or listening to a podcast, VLC provides a seamless playback experience.\n\nVLC for Android also features an equalizer, filters, and a widget for audio control. It is completely free, contains no ads, no in-app purchases, and no spying. As a community-driven project, it continues to improve with regular updates, ensuring it remains the most versatile and powerful media player on the market for mobile users.",
     "size": 32,
-    "reviews": 1500000,
+    "reviews": "15k",
     "ratingAvg": 4.1,
-    "downloads": 100000000,
+    "downloads": "100M+",
     "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 750000 }
+      { "name": "1 star", "count": 1500 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 7500 }
     ]
   },
   {
@@ -138,17 +110,13 @@
     "companyName": "Microsoft Corporation",
     "category": "Productivity",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRSDcTIswidLMF6-sdVqjsKLHE3uxI6Sj0A&s",
-    "description": "Write, edit, and share documents on the go with ease.",
+    "description": "Microsoft Word is the industry-standard word processing app that lets you create, edit, view, and share your files with others quickly and easily. Whether you're writing a professional resume, a blog post, or a school assignment, Word provides the most advanced formatting and layout tools to make your documents look polished and professional.\n\nThe mobile app brings the familiar Word interface to your phone, allowing you to work on the go with full compatibility for complex document structures. You can collaborate in real-time with teammates by sharing documents and adding comments directly in the text. With integrated cloud storage like OneDrive, your documents are always accessible and saved automatically.\n\nBoost your productivity with powerful features like 'Smart Lookup', templates for various document types, and advanced proofing tools that catch spelling and grammar errors. You can even read and edit PDF documents within the app. Word empowers you to write with confidence and produce high-quality work from anywhere, at any time.",
     "size": 88,
-    "reviews": 6000000,
+    "reviews": "60k",
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 1300000 },
-      { "name": "5 star", "count": 4000000 }
+      { "name": "1 star", "count": 2000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 13000 }, { "name": "5 star", "count": 40000 }
     ]
   },
   {
@@ -157,17 +125,13 @@
     "companyName": "King",
     "category": "Games",
     "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Candy_Crush_Saga_logo.png",
-    "description": "Match candies and win puzzles in this sweet adventure.",
+    "description": "Candy Crush Saga is a legendary puzzle game that has captured the hearts of millions around the world. In this sweet adventure, you must switch and match candies to progress through thousands of levels in the Kingdom of Candy. Each level presents unique challenges that require quick thinking and smart moves to overcome obstacles like chocolate and licorice.\n\nThe game features various game modes including 'Target Score', 'Clear the Jelly', and 'Collect the Ingredients'. You can use powerful boosters like the Color Bomb and Lollipop Hammer to blast through difficult stages. With new levels added every two weeks, there is always a fresh challenge waiting for you in this delicious puzzle saga.\n\nCompete with your friends to see who can get the highest score or reach the furthest level. You can easily sync the game between devices and access full game features when connected to the internet. Experience the sugary fun and see if you have what it takes to become the ultimate candy master in this addictive match-three game.",
     "size": 110,
-    "reviews": 38000000,
+    "reviews": "38k",
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 6400000 },
-      { "name": "5 star", "count": 28000000 }
+      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 600 }, { "name": "3 star", "count": 1800 }, { "name": "4 star", "count": 6400 }, { "name": "5 star", "count": 28000 }
     ]
   },
   {
@@ -176,17 +140,13 @@
     "companyName": "Duolingo",
     "category": "Productivity",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Duolingo_logo_%282019%29.svg",
-    "description": "Learn a new language with the world's most-downloaded education app.",
+    "description": "Duolingo is the world's most popular language-learning platform, designed to make learning a new language fun and accessible for everyone. With bite-sized lessons that feel more like a game than a classroom, you can practice speaking, reading, listening, and writing skills daily. The app supports over 40 languages, including Spanish, French, German, and Japanese.\n\nThe platform uses advanced AI to personalize your learning experience, focusing on the areas where you need the most improvement. You can earn points for correct answers, race against the clock, and level up through interactive challenges. Its 'Streaks' feature keeps you motivated to maintain your daily habit and reach your fluency goals.\n\nWhether you are a beginner starting with the basics or an advanced learner looking to polish your skills, Duolingo provides a comprehensive curriculum for all levels. The app is completely free to use, making high-quality education available to anyone with a smartphone. Start your linguistic journey today and join the community of millions learning with the friendly green owl.",
     "size": 45,
-    "reviews": 18000000,
+    "reviews": "18k",
     "ratingAvg": 4.7,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 600000 },
-      { "name": "4 star", "count": 2800000 },
-      { "name": "5 star", "count": 14000000 }
+      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 600 }, { "name": "4 star", "count": 2800 }, { "name": "5 star", "count": 14000 }
     ]
   },
   {
@@ -195,17 +155,13 @@
     "companyName": "Google LLC",
     "category": "Utility",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg",
-    "description": "Navigate your world faster and easier with real-time GPS.",
+    "description": "Navigate your world faster and easier with Google Maps, the ultimate mapping and navigation tool. With real-time GPS navigation, traffic, and transit info, you can find the best route to your destination every time. Explore local neighborhoods and discover the best spots to eat, drink, and visit, no matter where you are in the world.\n\nGet where you're going faster with real-time updates on traffic conditions, incidents, and road closures. Discover millions of places with detailed information including reviews, photos, and ratings from the Google community. You can also save your favorite locations to easily find them later and share them with your friends and family for better coordination.\n\nGo offline with maps that you can download to search and navigate without an internet connection. The app also features Street View and indoor imagery for restaurants, shops, museums, and more to help you get a better sense of your surroundings. Google Maps is your essential travel companion, ensuring you never feel lost and always find the best path forward.",
     "size": 58,
-    "reviews": 15000000,
+    "reviews": "15k",
     "ratingAvg": 4.3,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3300000 },
-      { "name": "5 star", "count": 9000000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1200 }, { "name": "4 star", "count": 3300 }, { "name": "5 star", "count": 9000 }
     ]
   },
   {
@@ -214,17 +170,13 @@
     "companyName": "TikTok Pte. Ltd.",
     "category": "Social Media",
     "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
-    "description": "Short-form mobile video platform to express your creativity.",
+    "description": "TikTok is the leading destination for short-form mobile video, offering a raw, real, and creative platform for users to express themselves. Whether you're a sports fan, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok. The endless stream of short videos is personalized to your interests, ensuring you're always entertained.\n\nExplore a world of creativity with easy-to-use tools that allow you to capture and edit your own videos with special effects, filters, and music. The platform's sophisticated algorithm learns your preferences to curate a 'For You' feed that is uniquely yours. You can also engage with creators worldwide through comments, duets, and live streams.\n\nStay connected with the latest global trends and join a community that celebrates diversity and talent. From comedy and gaming to DIY and food, TikTok provides a space for every passion. With millions of creators showcasing their skills, you'll never run out of inspiration or entertainment on this vibrant social media platform.",
     "size": 92,
-    "reviews": 60000000,
+    "reviews": "60k",
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 5000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 40000000 }
+      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 2000 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 9000 }, { "name": "5 star", "count": 40000 }
     ]
   },
   {
@@ -233,17 +185,13 @@
     "companyName": "Adobe",
     "category": "Utility",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Lightroom_CC_logo.svg",
-    "description": "Professional photo editor and camera app to edit stunning images.",
+    "description": "Adobe Lightroom is a powerful and intuitive photo editor and camera app that empowers you to capture and edit stunning images. With a suite of professional-grade tools, you can transform your raw photos into polished masterpieces with just a few taps. Whether you're a professional photographer or a hobbyist, Lightroom provides everything you need to enhance your visual storytelling.\n\nTake advantage of advanced editing features like 'Profiles', 'Presets', and 'Color Grading' to achieve the perfect look for your photos. You can also use selective adjustments to fine-tune specific parts of your image and remove unwanted elements with the 'Healing Brush'. The app's non-destructive editing ensures you can always go back to your original photo if needed.\n\nOrganize your photos with ease using AI-powered tagging and search functionality that finds people, places, and objects automatically. You can also sync your edits across all your devices and share your work directly to social media. Lightroom is the ultimate tool for anyone looking to take their mobile photography to the next level.",
     "size": 115,
-    "reviews": 1500000,
+    "reviews": "15k",
     "ratingAvg": 4.6,
-    "downloads": 100000000,
+    "downloads": "100M+",
     "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 70000 },
-      { "name": "4 star", "count": 270000 },
-      { "name": "5 star", "count": 1100000 }
+      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 700 }, { "name": "4 star", "count": 2700 }, { "name": "5 star", "count": 11000 }
     ]
   },
   {
@@ -252,17 +200,13 @@
     "companyName": "Uber Technologies, Inc.",
     "category": "Utility",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png",
-    "description": "Request a ride and get picked up by a nearby reliable driver.",
+    "description": "Uber is a ride-sharing app that offers a reliable and convenient way to get where you need to go. Whether you're commuting to work, heading to the airport, or going out with friends, Uber connects you with a nearby driver in minutes. With a variety of ride options to choose from, you can find the perfect fit for your budget and group size.\n\nTrack your driver in real-time and get an estimated arrival time so you're always prepared. The app also features upfront pricing, so you know exactly what you'll pay before you even request a ride. You can also share your trip details with loved ones for added safety and peace of mind during your journey.\n\nWith services available in thousands of cities worldwide, Uber is your go-to transportation solution no matter where life takes you. You can also earn rewards through Uber Rewards and enjoy a seamless payment experience with multiple options. Experience the convenience of on-demand transportation and see why millions of people rely on Uber for their daily travel needs.",
     "size": 60,
-    "reviews": 12000000,
+    "reviews": "12k",
     "ratingAvg": 4.4,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 2400000 },
-      { "name": "5 star", "count": 7000000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 400 }, { "name": "3 star", "count": 1200 }, { "name": "4 star", "count": 2400 }, { "name": "5 star", "count": 7000 }
     ]
   },
   {
@@ -271,17 +215,13 @@
     "companyName": "Imangi Studios",
     "category": "Games",
     "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Temple_Run_2_Logo.png",
-    "description": "Run, jump, and slide through dangerous cliffs and forests.",
+    "description": "Temple Run 2 is the sequel to the original smash hit that redefined mobile gaming. In this heart-pounding adventure, you must navigate dangerous cliffs, zip lines, mines, and forests as you escape with the cursed idol. The game features beautiful new organic environments and challenging obstacles that will test your reflexes at every turn.\n\nChoose from a variety of characters, each with their own unique power-ups and special abilities to help you run further. Collect coins and gems along the way to unlock new content and upgrade your character's skills. The addition of new obstacles like rotating blades and fire jets makes the chase more intense than ever before.\n\nWith stunning graphics and a fast-paced gameplay loop, Temple Run 2 offers an addictive experience that will keep you coming back for more. Compete with your friends on the global leaderboard and see who can claim the title of the ultimate runner. Experience the thrill of the chase and see if you have what it takes to survive the ancient temple's perils.",
     "size": 95,
-    "reviews": 10000000,
+    "reviews": "10k",
     "ratingAvg": 4.4,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 2000000 },
-      { "name": "5 star", "count": 6400000 }
+      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 800 }, { "name": "4 star", "count": 2000 }, { "name": "5 star", "count": 6400 }
     ]
   },
   {
@@ -290,17 +230,13 @@
     "companyName": "Microsoft Corporation",
     "category": "Productivity",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Microsoft_To-Do_icon.svg",
-    "description": "Task manager, planner and reminder app to stay organized.",
+    "description": "Microsoft To Do is a simple and intelligent to-do list that helps you manage all your tasks in one place. Whether you're planning a project at work or just trying to stay on top of your grocery list, To Do makes it easy to stay organized and productive. The app's 'My Day' feature provides a personalized daily planner to help you focus on what's important.\n\nCreate lists for every area of your life and share them with family, friends, and colleagues to collaborate on tasks together. You can also add reminders, due dates, and notes to each task to ensure nothing gets overlooked. With seamless integration with Outlook Tasks, you can manage all your responsibilities across all your devices.\n\nCustomize your lists with different themes and colors to make them your own and keep your productivity high. The app also features a 'Suggestions' tool that helps you prioritize your tasks based on your habits and upcoming deadlines. Microsoft To Do is the ultimate tool for anyone looking to stay organized and achieve more every day.",
     "size": 22,
-    "reviews": 400000,
+    "reviews": "4k",
     "ratingAvg": 4.8,
-    "downloads": 10000000,
+    "downloads": "10M+",
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 12000 },
-      { "name": "4 star", "count": 60000 },
-      { "name": "5 star", "count": 320000 }
+      { "name": "1 star", "count": 50 }, { "name": "2 star", "count": 30 }, { "name": "3 star", "count": 120 }, { "name": "4 star", "count": 600 }, { "name": "5 star", "count": 3200 }
     ]
   },
   {
@@ -309,17 +245,13 @@
     "companyName": "Apple Inc.",
     "category": "Music",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Shazam_logo.svg",
-    "description": "Identify any song in seconds. Find artists, lyrics, and playlists.",
+    "description": "Shazam is a music identification app that can name any song in seconds. Simply hold your phone up to the music and let Shazam do the rest, providing you with the artist, song title, and lyrics in an instant. Whether you're at a club, in a car, or watching a movie, Shazam ensures you never miss a beat.\n\nExplore a world of music with features like 'Shazam Charts', which show you what's popular in your city and around the world. You can also connect Shazam to your favorite streaming services like Spotify and Apple Music to listen to your discovered tracks. The app also features a 'Pop-up Shazam' that identifies music while you're using other apps.\n\nKeep track of all your discovered music with a personal library that saves every song you've ever Shazamed. You can also discover new artists and playlists based on your music taste and share your findings with friends. Shazam is the ultimate companion for any music lover, making it easier than ever to discover and enjoy new sounds.",
     "size": 15,
-    "reviews": 8500000,
+    "reviews": "8.5k",
     "ratingAvg": 4.8,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 650000 },
-      { "name": "5 star", "count": 7500000 }
+      { "name": "1 star", "count": 100 }, { "name": "2 star", "count": 50 }, { "name": "3 star", "count": 200 }, { "name": "4 star", "count": 650 }, { "name": "5 star", "count": 7500 }
     ]
   },
   {
@@ -328,17 +260,13 @@
     "companyName": "Level Infinite",
     "category": "Games",
     "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/PUBG_Mobile_Logo.png",
-    "description": "The original battle royale, survival mobile game.",
+    "description": "PUBG MOBILE is the original battle royale mobile game and the pioneer of the survival genre. Drop into a massive island with 99 other players and battle it out to be the last one standing in an epic showdown of skill and strategy. With a wide range of weapons, vehicles, and equipment to choose from, every match is a unique and thrilling experience.\n\nExplore diverse maps including Erangel, Miramar, and Sanhok, each with its own unique terrain and challenges. You can play solo, in duos, or in squads of four to coordinate with your teammates and achieve victory. The game also features regular updates with new modes, weapons, and seasonal events to keep the gameplay fresh and exciting.\n\nExperience high-quality graphics and immersive audio that bring the battlefield to life on your mobile device. With customizable controls and a robust social system, PUBG MOBILE provides a premier gaming experience for competitive players and casual gamers alike. Join the millions of players worldwide and see if you have what it takes to claim the winner winner chicken dinner.",
     "size": 1200,
-    "reviews": 45000000,
+    "reviews": "45k",
     "ratingAvg": 4.2,
-    "downloads": 500000000,
+    "downloads": "500M+",
     "ratings": [
-      { "name": "1 star", "count": 5000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 26000000 }
+      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 2000 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 8000 }, { "name": "5 star", "count": 26000 }
     ]
   },
   {
@@ -347,17 +275,13 @@
     "companyName": "Netflix, Inc.",
     "category": "Social Media",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
-    "description": "Watch movies and TV shows anytime, anywhere.",
+    "description": "Netflix is the world's leading streaming service, offering a vast library of award-winning TV shows, movies, documentaries, and more. With a subscription, you can watch as much as you want, anytime, anywhere, on any internet-connected device. The platform's personalized recommendation system ensures you always find something great to watch based on your viewing history.\n\nExplore a wide range of genres including action, comedy, drama, and horror, with new titles added every week. You can also download your favorite shows and movies to watch offline, making it the perfect companion for travel or long commutes. With multiple profile options, every member of your household can have their own personalized Netflix experience.\n\nEnjoy a seamless viewing experience with no ads and the ability to pause and resume your content at any time. Netflix also features 'Smart Downloads' that automatically delete watched episodes and download new ones for you. Experience the best in entertainment and discover why millions of people worldwide choose Netflix for their daily dose of movies and TV shows.",
     "size": 25,
-    "reviews": 14000000,
+    "reviews": "14k",
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": "1B+",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3300000 },
-      { "name": "5 star", "count": 8000000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1200 }, { "name": "4 star", "count": 3300 }, { "name": "5 star", "count": 8000 }
     ]
   },
   {
@@ -366,18 +290,13 @@
     "companyName": "Google LLC",
     "category": "Productivity",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
-    "description": "Store, share, and collaborate on your files.",
+    "description": "Google Drive is a safe place to back up and access all your files from any device. Easily invite others to view, edit, or leave comments on any of your files or folders, making collaboration a breeze. With 15GB of free storage to start, you can store photos, stories, designs, drawings, recordings, videos, and anything else you can think of.\n\nAccess your files offline so you can work even when you don't have an internet connection. The app also features a powerful search tool that finds files by name or content, ensuring you never lose track of your important documents. You can also use your device's camera to scan paper documents and save them directly to your Drive as PDFs.\n\nKeep your files secure with advanced encryption and the ability to control who can access your data. Google Drive also integrates seamlessly with other Google Workspace apps like Docs, Sheets, and Slides for a complete productivity experience. Simplify your digital life and see why millions of people rely on Google Drive for their storage and collaboration needs.",
     "size": 20,
-    "reviews": 12000000,
+    "reviews": "12k",
     "ratingAvg": 4.4,
-    "downloads": 5000000000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 800000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 2300000 },
-      { "name": "5 star", "count": 7500000 }
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 400 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 2300 }, { "name": "5 star", "count": 7500 }
     ]
   }
 ]
-                                    

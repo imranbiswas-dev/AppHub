@@ -1,11 +1,12 @@
 import React from "react";
 import { FaDownload } from "react-icons/fa";
 import { FcRating } from "react-icons/fc";
+import { Link } from "react-router";
 
 const AppCard = ({ app }) => {
-  const { title, size, ratingAvg, image } = app;
+  const { id,title, size, ratingAvg, image } = app;
   return (
-    <div className="lg:w-[248px] lg:h-[335px] w-45 h-65 shadow-md p-3 border border-base-300 bg-base-100 rounded-xl">
+    <Link to={`/details/${id}`} className="lg:w-[248px] lg:h-[335px] w-45 h-65 shadow-md p-3 border border-base-300 bg-base-100 rounded-xl">
       <div className="">
         <img className="h-[153px] w-[153px] lg:w-[200px] lg:h-[200px] mx-auto" src={image} alt="" />
       </div>
@@ -18,7 +19,7 @@ const AppCard = ({ app }) => {
           <FcRating /> {ratingAvg}
         </p>
       </div>
-    </div>
+    </Link>
   );
 };
 
